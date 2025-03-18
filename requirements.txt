@@ -1,0 +1,10 @@
+crewai 
+langchain 
+huggingface_hub 
+transformers 
+ollama
+streamlit
+torch
+python-dotenv
+fpdf
+trip_agents
